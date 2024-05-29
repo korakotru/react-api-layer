@@ -1,0 +1,1 @@
+rafc => create react arrow function component
